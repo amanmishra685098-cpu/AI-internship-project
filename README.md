@@ -65,5 +65,5 @@ Recommended for user_1:
 ## About
 Completed as part of the AI Internship program at **Codect Technologies**.
 
-**Author:** [Your Name]
-**Contact:** [Your Email / LinkedIn]
+**Author:** [Aman Mishra]
+**Contact:** [amanmishra685098@gmail.com]
